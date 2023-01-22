@@ -1,1 +1,1 @@
-# CSC2463 Assignments and Project by Stephanie Mayberry
+# CSC2463 Assignments and Projects by Stephanie Mayberry
